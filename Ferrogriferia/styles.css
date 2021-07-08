@@ -222,5 +222,22 @@ margin: 0 30px;
     .footer-links .footer-container{
         grid-template-columns: repeat(1 ,1fr);
     }
+    .menu-btn{
+        display: block;
+    }
     
+}
+@media (max-width:500px) {
+    .cards{
+        grid-template-columns:1fr;
+    }
+    .cards img{
+        height:250px;
+    }
+    .banner-one .content{
+        width:100%;
+        padding: 60px 0;
+        
+    }
+
 }

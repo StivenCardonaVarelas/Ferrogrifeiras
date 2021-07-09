@@ -221,6 +221,10 @@ margin: 0 30px;
     }
     .footer-links .footer-container{
         grid-template-columns: repeat(1 ,1fr);
+        margin-top: 20px;
+    }
+    .footer-links{
+      margin-top: 50px;
     }
     .menu-btn{
         display: block;
@@ -238,6 +242,9 @@ margin: 0 30px;
         width:100%;
         padding: 60px 0;
         
+    }
+    .footer-links{
+      margin-top: 90px;
     }
 
 }

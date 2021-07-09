@@ -229,6 +229,10 @@ margin: 0 30px;
     .menu-btn{
         display: block;
     }
+    .boxInfo{
+      margin-bottom: 20px;
+    }
+
     
 }
 @media (max-width:500px) {
@@ -245,6 +249,9 @@ margin: 0 30px;
     }
     .footer-links{
       margin-top: 90px;
+    }
+    .boxInfo{
+      margin-bottom: 20px;
     }
 
 }

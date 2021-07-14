@@ -188,6 +188,26 @@ margin: 0 30px;
      padding-bottom: 20px;
 
 }
+ 
+   
+
+.boton-right{
+  position:absolute;
+    cursor:pointer;
+    top:15px;
+    right:60px;
+    z-index: 2;
+    font-size: 1.5rem;
+}
+.boton-left{
+  position:absolute;
+    cursor:pointer;
+    top:15px;
+    right:90px;
+    z-index: 2;
+    font-size: 1.5rem;
+}
+
 /*Mediacueris*/
 @media (max-width:700px) {
     .nav-main ul.nav-menu{
